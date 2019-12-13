@@ -1,5 +1,5 @@
 # [AMXX] Bank Mod v1.5
-This plugin imitates bank in your Counter-Strike 1.6 server.<br />
+This plugin imitates bank in your Counter-Strike 1.6 server (My very first amxx plugin!)<br />
 ![](https://raw.githubusercontent.com/kpuc313/AMXX-Bank-Mod/master/Preview/Preview.png)
 
 <br />
