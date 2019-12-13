@@ -1,6 +1,5 @@
 # [AMXX] Bank Mod v1.5
 This plugin imitates bank in your Counter-Strike 1.6 server.
-
 ![](https://raw.githubusercontent.com/kpuc313/AMXX-Bank-Mod/master/Preview/Preview.png)
 
 <br />
@@ -17,16 +16,13 @@ This plugin imitates bank in your Counter-Strike 1.6 server.
 
 # Requirements:
 cstrike
-
 hamsandwich
 
 <br />
 
 # Special Thanks to:
-<VeCo> - For the code to take money from player in the next round, if player has taken money from the bank
-
+VeCo - For the code to take money from player in the next round, if player has taken money from the bank
 independent - For fixing the bug with message announce
-
 hateYou - For optimization of the code
 
 <br />
