@@ -2,7 +2,7 @@
 This plugin imitates bank in your Counter-Strike 1.6 server (My very first amxx plugin!)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kpuc313/AMXX-Bank-Mod/master/Preview/Preview.png">
+  <img src="https://raw.githubusercontent.com/kpuc313/AMXX-Bank_Mod/master/Preview/Preview.png">
 </p>
 
 <br />
