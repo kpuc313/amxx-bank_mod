@@ -18,15 +18,15 @@ This plugin imitates bank in your Counter-Strike 1.6 server (My very first amxx 
 <br />
 
 # Requirements:
-cstrike<br />
-hamsandwich
+**cstrike**<br />
+**hamsandwich**
 
 <br />
 
 # Special Thanks to:
-VeCo - For the code to take money from player in the next round, if player has taken money from the bank<br />
-independent - For fixing the bug with message announce<br />
-hateYou - For optimization of the code<br />
+**VeCo** - For the code to take money from player in the next round, if player has taken money from the bank<br />
+**independent** - For fixing the bug with message announce<br />
+**hateYou** - For optimization of the code<br />
 
 <br />
 
