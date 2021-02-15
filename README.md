@@ -4,7 +4,7 @@
 <br />
 
 # :page_facing_up: Description:
-This plugin imitates bank in your Counter-Strike 1.6 server (My very first amxx plugin!)
+This plugin imitates bank in your Counter-Strike 1.6 server (My very first amxx plugin!).
 
 <br />
 
