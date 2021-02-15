@@ -20,11 +20,11 @@
 *
 ******************************************************************
 *
-*  Thanks to:
-*  ==========
-*  <VeCo> - For the code to take money from player in the next round, if player has taken money from the bank
-*  independent - For fixing the bug with message announce
-*  hateYou - For optimization of the code
+* Thanks to:
+* ==========
+* VeCo - For the code to take money from player in the next round, if player has took money from the bank.
+* independent - Fixing the bug with message announce.
+* hateYou - Optimization of the code.
 *
 *****************************************************************/
 
