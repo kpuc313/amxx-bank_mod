@@ -37,7 +37,7 @@ This plugin imitates bank in your Counter-Strike 1.6 server (My very first amxx 
 <br />
 
 # :scroll: Changelog:
-    - v1.0: First Version
+    - v1.0: First Release
     - v1.5:
     [!] Optimization and bug fixes
     [+] Added bank increase
