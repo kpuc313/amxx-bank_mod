@@ -14,8 +14,14 @@
 *     You can modify the code, but DO NOT modify the author!     *
 ******************************************************************
 *
-*  Special Tanks to:
-*  =================
+* Description:
+* ============
+* This plugin imitates bank in your Counter-Strike 1.6 server (My very first amxx plugin!).
+*
+******************************************************************
+*
+*  Thanks to:
+*  ==========
 *  <VeCo> - For the code to take money from player in the next round, if player has taken money from the bank
 *  independent - For fixing the bug with message announce
 *  hateYou - For optimization of the code
