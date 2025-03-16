@@ -1,5 +1,5 @@
 <h1 align="center">Bank Mod v1.5</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/kpuc313/AMXX-Bank_Mod/master/preview/logo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kpuc313/AMXX-Bank_Mod/master/logo.png"></p>
 
 <br />
 
